@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37ebf0b4-7607-40eb-a9ec-bda462ff4051" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/chesh.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/removing vowels/RemovingVowels.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/swapping vowels/SwappingVowels.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RemovingVowels.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SwappingVowels.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/swapping vowels/SwappingVowels.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemovingVowels.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/removing vowels/RemovingVowels.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+              <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -58,6 +66,7 @@
         <option value="$PROJECT_DIR$/lists&amp;dictionaries/Dictionaries.py" />
         <option value="$PROJECT_DIR$/rock, paper, scissors/RPS.py" />
         <option value="$PROJECT_DIR$/removing vowels/RemovingVowels.py" />
+        <option value="$PROJECT_DIR$/swapping vowels/SwappingVowels.py" />
       </list>
     </option>
   </component>
@@ -115,6 +124,11 @@
             <path>
               <item name="PythonProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="swapping vowels" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonProjects" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -148,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.RemovingVowels">
+  <component name="RunManager" selected="Python.SwappingVowels">
     <configuration name="Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -239,20 +253,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="5">
+    <configuration name="SwappingVowels" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swapping vowels" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonProjects" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swapping vowels/SwappingVowels.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.Lists" />
       <item index="1" class="java.lang.String" itemvalue="Python.Calculator" />
       <item index="2" class="java.lang.String" itemvalue="Python.Dictionaries" />
       <item index="3" class="java.lang.String" itemvalue="Python.RPS" />
       <item index="4" class="java.lang.String" itemvalue="Python.RemovingVowels" />
+      <item index="5" class="java.lang.String" itemvalue="Python.SwappingVowels" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.RemovingVowels" />
-        <item index="1" class="java.lang.String" itemvalue="Python.RPS" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Dictionaries" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Lists" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Calculator" />
+        <item index="0" class="java.lang.String" itemvalue="Python.SwappingVowels" />
+        <item index="1" class="java.lang.String" itemvalue="Python.RemovingVowels" />
+        <item index="2" class="java.lang.String" itemvalue="Python.RPS" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Dictionaries" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Lists" />
       </list>
     </recent_temporary>
   </component>
@@ -372,7 +405,15 @@
     <entry file="file://$PROJECT_DIR$/removing vowels/RemovingVowels.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swapping vowels/SwappingVowels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
           <folding />
         </state>
       </provider>
