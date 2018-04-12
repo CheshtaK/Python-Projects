@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37ebf0b4-7607-40eb-a9ec-bda462ff4051" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/encryption/UsingFunctions.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/encryption/UsingIndexes.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,11 +34,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UsingFunctions.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UsingFunctions.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/encryption/UsingFunctions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="47" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UsingIndexes.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/encryption/UsingIndexes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -80,6 +90,7 @@
         <option value="$PROJECT_DIR$/jumble up letters/JumbleUpLetters.py" />
         <option value="$PROJECT_DIR$/encryption/__init__.py" />
         <option value="$PROJECT_DIR$/encryption/UsingFunctions.py" />
+        <option value="$PROJECT_DIR$/encryption/UsingIndexes.py" />
       </list>
     </option>
   </component>
@@ -165,7 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.UsingFunctions">
+  <component name="RunManager" selected="Python.UsingIndexes">
     <configuration name="JumbleUpLetters" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,24 +208,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonProjects" />
       <option name="SCRIPT_NAME" value="C:\Users\chesh\PycharmProjects\PythonProjects\lists&amp;dictionaries\Lists.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="RemovingVowels" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/removing vowels" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/removing vowels/RemovingVowels.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,6 +249,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="UsingIndexes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/encryption" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonProjects" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/encryption/UsingIndexes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -276,19 +287,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.Lists" />
-      <item index="1" class="java.lang.String" itemvalue="Python.RemovingVowels" />
-      <item index="2" class="java.lang.String" itemvalue="Python.SwappingVowels" />
-      <item index="3" class="java.lang.String" itemvalue="Python.JumbleUpLetters" />
-      <item index="4" class="java.lang.String" itemvalue="Python.__init__" />
-      <item index="5" class="java.lang.String" itemvalue="Python.UsingFunctions" />
+      <item index="1" class="java.lang.String" itemvalue="Python.SwappingVowels" />
+      <item index="2" class="java.lang.String" itemvalue="Python.JumbleUpLetters" />
+      <item index="3" class="java.lang.String" itemvalue="Python.__init__" />
+      <item index="4" class="java.lang.String" itemvalue="Python.UsingFunctions" />
+      <item index="5" class="java.lang.String" itemvalue="Python.UsingIndexes" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.UsingFunctions" />
-        <item index="1" class="java.lang.String" itemvalue="Python.__init__" />
-        <item index="2" class="java.lang.String" itemvalue="Python.JumbleUpLetters" />
-        <item index="3" class="java.lang.String" itemvalue="Python.SwappingVowels" />
-        <item index="4" class="java.lang.String" itemvalue="Python.RemovingVowels" />
+        <item index="0" class="java.lang.String" itemvalue="Python.UsingIndexes" />
+        <item index="1" class="java.lang.String" itemvalue="Python.UsingFunctions" />
+        <item index="2" class="java.lang.String" itemvalue="Python.__init__" />
+        <item index="3" class="java.lang.String" itemvalue="Python.JumbleUpLetters" />
+        <item index="4" class="java.lang.String" itemvalue="Python.SwappingVowels" />
       </list>
     </recent_temporary>
   </component>
@@ -445,8 +456,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/encryption/UsingFunctions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="47" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/encryption/UsingIndexes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
