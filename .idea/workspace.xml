@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37ebf0b4-7607-40eb-a9ec-bda462ff4051" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/lists &amp; dictionaries/SortingDictionaries.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/shopping basket/ShoppingBasket.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SortingDictionaries.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lists &amp; dictionaries/SortingDictionaries.py">
+      <file leaf-file-name="ShoppingBasket.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shopping basket/ShoppingBasket.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="34" lean-forward="false" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+            <state relative-caret-position="408">
+              <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -71,6 +71,7 @@
         <option value="$PROJECT_DIR$/file basics/file.txt" />
         <option value="$PROJECT_DIR$/file basics/Pickle.py" />
         <option value="$PROJECT_DIR$/lists &amp; dictionaries/SortingDictionaries.py" />
+        <option value="$PROJECT_DIR$/shopping basket/ShoppingBasket.py" />
       </list>
     </option>
   </component>
@@ -108,7 +109,7 @@
             <path>
               <item name="PythonProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="lists &amp; dictionaries" type="462c0819:PsiDirectoryNode" />
+              <item name="shopping basket" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonProjects" type="b2602c69:ProjectViewProjectNode" />
@@ -146,7 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SortingDictionaries">
+  <component name="RunManager" selected="Python.ShoppingBasket">
     <configuration name="Append" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,24 +161,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonProjects" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file basics/Append.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="CoinCounter" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coin counter game" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coin counter game/CoinCounter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,6 +197,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonProjects" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file basics/Pickle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ShoppingBasket" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/shopping basket" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonProjects" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shopping basket/ShoppingBasket.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,19 +258,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.Lists" />
-      <item index="1" class="java.lang.String" itemvalue="Python.CoinCounter" />
-      <item index="2" class="java.lang.String" itemvalue="Python.__init__" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Append" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Pickle" />
-      <item index="5" class="java.lang.String" itemvalue="Python.SortingDictionaries" />
+      <item index="1" class="java.lang.String" itemvalue="Python.__init__" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Append" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Pickle" />
+      <item index="4" class="java.lang.String" itemvalue="Python.SortingDictionaries" />
+      <item index="5" class="java.lang.String" itemvalue="Python.ShoppingBasket" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.SortingDictionaries" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Pickle" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Append" />
-        <item index="3" class="java.lang.String" itemvalue="Python.__init__" />
-        <item index="4" class="java.lang.String" itemvalue="Python.CoinCounter" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ShoppingBasket" />
+        <item index="1" class="java.lang.String" itemvalue="Python.SortingDictionaries" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Pickle" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Append" />
+        <item index="4" class="java.lang.String" itemvalue="Python.__init__" />
       </list>
     </recent_temporary>
   </component>
@@ -565,6 +566,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="34" lean-forward="false" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping basket/ShoppingBasket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
           <folding />
         </state>
       </provider>
